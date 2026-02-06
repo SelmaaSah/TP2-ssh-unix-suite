@@ -125,7 +125,7 @@ J'ai analysé la différence entre les commandes de redirection :
 
 ### 6.2 Surveillance temps réel (Cron & Tail)
 
-Le service **cron** sert à exécuter des tâches planifiées (comme faire le café tous les matins à 8h30, exemple du cours !).
+Le service **cron** sert à exécuter des tâches planifiées (comme faire le café le matin)
 
 Pour voir son activité, j'ai utilisé `tail -f /var/log/syslog`.
 
