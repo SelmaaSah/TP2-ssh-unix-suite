@@ -74,7 +74,7 @@ J'ai ensuite testé `htop`. C'est beaucoup plus visuel : on a des barres de prog
 
 J'ai créé deux scripts (`date.sh` et `toto.sh`) contenant des boucles infinies pour simuler une activité.
 
-![scripts](imagesTP2/toto.png)
+![scripts](imagesTP2/toto-processus.png)
 
   ![scripts](imagesTP2/arret-processus.png)
 
